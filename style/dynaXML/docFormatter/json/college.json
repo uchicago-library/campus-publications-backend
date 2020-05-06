@@ -1,0 +1,55 @@
+{
+    "ia": "mvol-0001-v001-i00", 
+    "indexed": true, 
+    "leaf0_missing": false, 
+    "matches": [
+        {
+            "par": [
+                {
+                    "b": 215, 
+                    "boxes": [
+                        {
+                            "b": 215, 
+                            "l": 523, 
+                            "page": 240, 
+                            "r": 561, 
+                            "t": 202
+                        }
+                    ], 
+                    "l": 276, 
+                    "page": 240, 
+                    "page_height": 1024, 
+                    "page_width": 747, 
+                    "r": 624, 
+                    "t": 202
+                }
+            ], 
+            "text": "{{{college}}}"
+        }, 
+        {
+            "par": [
+                {
+                    "b": 450, 
+                    "boxes": [
+                        {
+                            "b": 450, 
+                            "l": 282, 
+                            "page": 240, 
+                            "r": 322, 
+                            "t": 439
+                        }
+                    ], 
+                    "l": 282, 
+                    "page": 240, 
+                    "page_height": 1024, 
+                    "page_width": 747, 
+                    "r": 622, 
+                    "t": 439
+                }
+            ], 
+            "text": "{{{college}}}"
+        }
+    ], 
+    "page_count": 365, 
+    "q": "College"
+}

@@ -1,0 +1,1109 @@
+br.BRSearchCallback( {
+    "ia": "aliceinwonderlan00dela",
+    "q": "wonderland",
+    "indexed": true,
+    "page_count": 128,
+    "body_length": 71886,
+    "leaf0_missing": false,
+    "matches": [ 
+{
+    "text": "Alice in   {{{Wonderland}}} A PLAY", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1596, 
+                    "b": 1484, 
+                    "t": 1394, 
+                    "page": 7, 
+                    "l": 974
+                }
+            ], 
+            "b": 1618, 
+            "t": 1394, 
+            "page_width": 2125, 
+            "r": 1612, 
+            "l": 432, 
+            "page_height": 3624, 
+            "page": 7
+        }
+    ]
+},
+{
+    "text": "IN   {{{WONDERLAND}}}", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1920, 
+                    "b": 720, 
+                    "t": 592, 
+                    "page": 11, 
+                    "l": 536
+                }
+            ], 
+            "b": 720, 
+            "t": 592, 
+            "page_width": 2219, 
+            "r": 1940, 
+            "l": 168, 
+            "page_height": 3655, 
+            "page": 11
+        }
+    ]
+},
+{
+    "text": "Alice in {{{Wonderland}}} and Through the Looking^Glass, and What Alice Found There", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 797, 
+                    "b": 1382, 
+                    "t": 1311, 
+                    "page": 11, 
+                    "l": 459
+                }
+            ], 
+            "b": 1448, 
+            "t": 1311, 
+            "page_width": 2219, 
+            "r": 1940, 
+            "l": 168, 
+            "page_height": 3655, 
+            "page": 11
+        }
+    ]
+},
+{
+    "text": "IT MA Y be interesting to lovers of ^^Alice in {{{Wonderland}}}\"\" and^^ Through the Looking Glass'' to know how the thought of compiling a play from those stories suggested itself to me. In i8go^ while visiting Japan^ I was invited to attend a performance^ by children^ of scenes from the former book. I went reludantly, fearing a travesty on familiar characters. I came away delighted with the entertainment^ and feeling that until then I had only half under stood the cleverness of the book. There were but few English children in Yokohama who could be called upon to ady and the preparations were necessarily very crude. When^ therefore^ I was ask&d to suggest something new to be given for the benefit of the Society of Decorative Arty on the anniversary of the opening of the Waldorf^ March /^, iSgy^ I determined to compile this play. As the work went on I found that it would add much to the dramatic effed if I took scenes from both ^^ Alice in {{{Wonderland}}}'' and ^' Through the Looking Glass^'' and while appreciating fully the difficulty of my task^ I believed that the interest aroused by seeing Alice herself and all the other familiar charaders in propria persona would more than atone for any shortcomings in my work.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1113, 
+                    "b": 847, 
+                    "t": 735, 
+                    "page": 13, 
+                    "l": 599
+                }
+            ], 
+            "b": 3075, 
+            "t": 609, 
+            "page_width": 2219, 
+            "r": 1824, 
+            "l": 0, 
+            "page_height": 3655, 
+            "page": 13
+        }, 
+        {
+            "boxes": [
+                {
+                    "r": 1355, 
+                    "b": 1006, 
+                    "t": 899, 
+                    "page": 14, 
+                    "l": 848
+                }
+            ], 
+            "b": 1841, 
+            "t": 410, 
+            "page_width": 2281, 
+            "r": 2124, 
+            "l": 344, 
+            "page_height": 3655, 
+            "page": 14
+        }
+    ]
+},
+{
+    "text": "IN      {{{WONDERLAND}}}", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1869, 
+                    "b": 657, 
+                    "t": 559, 
+                    "page": 21, 
+                    "l": 523
+                }
+            ], 
+            "b": 657, 
+            "t": 559, 
+            "page_width": 2219, 
+            "r": 1884, 
+            "l": 104, 
+            "page_height": 3655, 
+            "page": 21
+        }
+    ]
+},
+{
+    "text": "Act I]        {{{WONDERLAND}}} 3", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1460, 
+                    "b": 313, 
+                    "t": 224, 
+                    "page": 23, 
+                    "l": 526
+                }
+            ], 
+            "b": 313, 
+            "t": 224, 
+            "page_width": 2219, 
+            "r": 1876, 
+            "l": 88, 
+            "page_height": 3655, 
+            "page": 23
+        }
+    ]
+},
+{
+    "text": "Act I]        {{{WONDERLAND}}} 5", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1446, 
+                    "b": 310, 
+                    "t": 225, 
+                    "page": 27, 
+                    "l": 516
+                }
+            ], 
+            "b": 310, 
+            "t": 225, 
+            "page_width": 2219, 
+            "r": 1868, 
+            "l": 88, 
+            "page_height": 3655, 
+            "page": 27
+        }
+    ]
+},
+{
+    "text": "Act I]        {{{WONDERLAND}}} 7", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1454, 
+                    "b": 317, 
+                    "t": 227, 
+                    "page": 29, 
+                    "l": 526
+                }
+            ], 
+            "b": 317, 
+            "t": 227, 
+            "page_width": 2219, 
+            "r": 1868, 
+            "l": 96, 
+            "page_height": 3655, 
+            "page": 29
+        }
+    ]
+},
+{
+    "text": "Act I]        {{{WONDERLAND}}}", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1422, 
+                    "b": 309, 
+                    "t": 224, 
+                    "page": 31, 
+                    "l": 491
+                }
+            ], 
+            "b": 309, 
+            "t": 224, 
+            "page_width": 2219, 
+            "r": 1440, 
+            "l": 80, 
+            "page_height": 3655, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 13", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1453, 
+                    "b": 330, 
+                    "t": 241, 
+                    "page": 35, 
+                    "l": 519
+                }
+            ], 
+            "b": 330, 
+            "t": 241, 
+            "page_width": 2219, 
+            "r": 1880, 
+            "l": 100, 
+            "page_height": 3655, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 15", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1486, 
+                    "b": 349, 
+                    "t": 263, 
+                    "page": 37, 
+                    "l": 556
+                }
+            ], 
+            "b": 349, 
+            "t": 263, 
+            "page_width": 2219, 
+            "r": 1892, 
+            "l": 124, 
+            "page_height": 3655, 
+            "page": 37
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 17", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1476, 
+                    "b": 334, 
+                    "t": 246, 
+                    "page": 39, 
+                    "l": 545
+                }
+            ], 
+            "b": 334, 
+            "t": 246, 
+            "page_width": 2219, 
+            "r": 1892, 
+            "l": 120, 
+            "page_height": 3655, 
+            "page": 39
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 19", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1476, 
+                    "b": 328, 
+                    "t": 238, 
+                    "page": 41, 
+                    "l": 542
+                }
+            ], 
+            "b": 328, 
+            "t": 238, 
+            "page_width": 2219, 
+            "r": 1876, 
+            "l": 108, 
+            "page_height": 3655, 
+            "page": 41
+        }
+    ]
+},
+{
+    "text": "Act II]       {{{WONDERLAND}}} 21", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1483, 
+                    "b": 333, 
+                    "t": 250, 
+                    "page": 43, 
+                    "l": 551
+                }
+            ], 
+            "b": 333, 
+            "t": 250, 
+            "page_width": 2219, 
+            "r": 1896, 
+            "l": 116, 
+            "page_height": 3655, 
+            "page": 43
+        }
+    ]
+},
+{
+    "text": "Act II]       {{{WONDERLAND}}} 23", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1490, 
+                    "b": 355, 
+                    "t": 266, 
+                    "page": 45, 
+                    "l": 557
+                }
+            ], 
+            "b": 355, 
+            "t": 266, 
+            "page_width": 2219, 
+            "r": 1900, 
+            "l": 116, 
+            "page_height": 3655, 
+            "page": 45
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 25", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1458, 
+                    "b": 335, 
+                    "t": 248, 
+                    "page": 47, 
+                    "l": 522
+                }
+            ], 
+            "b": 335, 
+            "t": 248, 
+            "page_width": 2219, 
+            "r": 1880, 
+            "l": 104, 
+            "page_height": 3655, 
+            "page": 47
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 27", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1428, 
+                    "b": 306, 
+                    "t": 221, 
+                    "page": 49, 
+                    "l": 493
+                }
+            ], 
+            "b": 306, 
+            "t": 221, 
+            "page_width": 2219, 
+            "r": 1852, 
+            "l": 72, 
+            "page_height": 3655, 
+            "page": 49
+        }
+    ]
+},
+{
+    "text": "Act II]      {{{WONDERLAND}}} 29", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1460, 
+                    "b": 326, 
+                    "t": 240, 
+                    "page": 53, 
+                    "l": 525
+                }
+            ], 
+            "b": 326, 
+            "t": 240, 
+            "page_width": 2219, 
+            "r": 1876, 
+            "l": 104, 
+            "page_height": 3655, 
+            "page": 53
+        }
+    ]
+},
+{
+    "text": "Act III]    {{{WONDERLAND}}} 31", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1489, 
+                    "b": 358, 
+                    "t": 269, 
+                    "page": 55, 
+                    "l": 552
+                }
+            ], 
+            "b": 358, 
+            "t": 269, 
+            "page_width": 2219, 
+            "r": 1916, 
+            "l": 140, 
+            "page_height": 3655, 
+            "page": 55
+        }
+    ]
+},
+{
+    "text": "Act III]     {{{WONDERLAND}}} 33", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1507, 
+                    "b": 335, 
+                    "t": 250, 
+                    "page": 57, 
+                    "l": 575
+                }
+            ], 
+            "b": 335, 
+            "t": 250, 
+            "page_width": 2219, 
+            "r": 1924, 
+            "l": 148, 
+            "page_height": 3655, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Act III]     {{{WONDERLAND}}} 35", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1507, 
+                    "b": 342, 
+                    "t": 254, 
+                    "page": 59, 
+                    "l": 574
+                }
+            ], 
+            "b": 342, 
+            "t": 254, 
+            "page_width": 2219, 
+            "r": 1932, 
+            "l": 148, 
+            "page_height": 3655, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Act III]     {{{WONDERLAND}}} 37", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1492, 
+                    "b": 327, 
+                    "t": 240, 
+                    "page": 61, 
+                    "l": 559
+                }
+            ], 
+            "b": 327, 
+            "t": 240, 
+            "page_width": 2219, 
+            "r": 1908, 
+            "l": 128, 
+            "page_height": 3655, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Act III]    {{{WONDERLAND}}} 39", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1477, 
+                    "b": 331, 
+                    "t": 244, 
+                    "page": 63, 
+                    "l": 541
+                }
+            ], 
+            "b": 331, 
+            "t": 244, 
+            "page_width": 2219, 
+            "r": 1900, 
+            "l": 124, 
+            "page_height": 3655, 
+            "page": 63
+        }
+    ]
+},
+{
+    "text": "Act III]     {{{WONDERLAND}}} 41", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1532, 
+                    "b": 327, 
+                    "t": 239, 
+                    "page": 65, 
+                    "l": 600
+                }
+            ], 
+            "b": 327, 
+            "t": 239, 
+            "page_width": 2219, 
+            "r": 1940, 
+            "l": 164, 
+            "page_height": 3655, 
+            "page": 65
+        }
+    ]
+},
+{
+    "text": "Act IV]     {{{WONDERLAND}}} 45", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1515, 
+                    "b": 313, 
+                    "t": 224, 
+                    "page": 69, 
+                    "l": 582
+                }
+            ], 
+            "b": 313, 
+            "t": 224, 
+            "page_width": 2219, 
+            "r": 1936, 
+            "l": 152, 
+            "page_height": 3655, 
+            "page": 69
+        }
+    ]
+},
+{
+    "text": "Act IV]     {{{WONDERLAND}}} 47", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1521, 
+                    "b": 327, 
+                    "t": 241, 
+                    "page": 71, 
+                    "l": 585
+                }
+            ], 
+            "b": 327, 
+            "t": 241, 
+            "page_width": 2219, 
+            "r": 1940, 
+            "l": 168, 
+            "page_height": 3655, 
+            "page": 71
+        }
+    ]
+},
+{
+    "text": "Act IV]     {{{WONDERLAND}}} 49", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1533, 
+                    "b": 307, 
+                    "t": 223, 
+                    "page": 73, 
+                    "l": 604
+                }
+            ], 
+            "b": 307, 
+            "t": 223, 
+            "page_width": 2219, 
+            "r": 1960, 
+            "l": 184, 
+            "page_height": 3655, 
+            "page": 73
+        }
+    ]
+},
+{
+    "text": "Act IV]      {{{WONDERLAND}}} 51", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1550, 
+                    "b": 316, 
+                    "t": 227, 
+                    "page": 75, 
+                    "l": 615
+                }
+            ], 
+            "b": 316, 
+            "t": 227, 
+            "page_width": 2219, 
+            "r": 1956, 
+            "l": 176, 
+            "page_height": 3655, 
+            "page": 75
+        }
+    ]
+},
+{
+    "text": "Act IV]     {{{WONDERLAND}}} 53", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1545, 
+                    "b": 334, 
+                    "t": 248, 
+                    "page": 77, 
+                    "l": 608
+                }
+            ], 
+            "b": 334, 
+            "t": 248, 
+            "page_width": 2219, 
+            "r": 1964, 
+            "l": 188, 
+            "page_height": 3655, 
+            "page": 77
+        }
+    ]
+},
+{
+    "text": "Act IV]     {{{WONDERLAND}}} 55", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1522, 
+                    "b": 324, 
+                    "t": 237, 
+                    "page": 79, 
+                    "l": 588
+                }
+            ], 
+            "b": 324, 
+            "t": 237, 
+            "page_width": 2219, 
+            "r": 1964, 
+            "l": 172, 
+            "page_height": 3655, 
+            "page": 79
+        }
+    ]
+},
+{
+    "text": "Act V]      {{{WONDERLAND}}} 57", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1557, 
+                    "b": 306, 
+                    "t": 219, 
+                    "page": 81, 
+                    "l": 620
+                }
+            ], 
+            "b": 306, 
+            "t": 219, 
+            "page_width": 2219, 
+            "r": 1980, 
+            "l": 188, 
+            "page_height": 3655, 
+            "page": 81
+        }
+    ]
+},
+{
+    "text": "Act V]       {{{WONDERLAND}}} 59", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1545, 
+                    "b": 330, 
+                    "t": 244, 
+                    "page": 85, 
+                    "l": 609
+                }
+            ], 
+            "b": 330, 
+            "t": 244, 
+            "page_width": 2219, 
+            "r": 1956, 
+            "l": 168, 
+            "page_height": 3655, 
+            "page": 85
+        }
+    ]
+},
+{
+    "text": "Act V]       {{{WONDERLAND}}} 6i", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1552, 
+                    "b": 331, 
+                    "t": 245, 
+                    "page": 87, 
+                    "l": 618
+                }
+            ], 
+            "b": 331, 
+            "t": 245, 
+            "page_width": 2219, 
+            "r": 1960, 
+            "l": 188, 
+            "page_height": 3655, 
+            "page": 87
+        }
+    ]
+},
+{
+    "text": "Act V]       {{{WONDERLAND}}} 63", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1552, 
+                    "b": 313, 
+                    "t": 223, 
+                    "page": 89, 
+                    "l": 618
+                }
+            ], 
+            "b": 313, 
+            "t": 223, 
+            "page_width": 2219, 
+            "r": 1968, 
+            "l": 192, 
+            "page_height": 3655, 
+            "page": 89
+        }
+    ]
+},
+{
+    "text": "Act V]       {{{WONDERLAND}}} 65", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1502, 
+                    "b": 327, 
+                    "t": 240, 
+                    "page": 91, 
+                    "l": 570
+                }
+            ], 
+            "b": 327, 
+            "t": 240, 
+            "page_width": 2219, 
+            "r": 1920, 
+            "l": 132, 
+            "page_height": 3655, 
+            "page": 91
+        }
+    ]
+},
+{
+    "text": "Act V]      {{{WONDERLAND}}} 67", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1468, 
+                    "b": 310, 
+                    "t": 221, 
+                    "page": 93, 
+                    "l": 537
+                }
+            ], 
+            "b": 310, 
+            "t": 221, 
+            "page_width": 2219, 
+            "r": 1896, 
+            "l": 124, 
+            "page_height": 3655, 
+            "page": 93
+        }
+    ]
+},
+{
+    "text": "Act VI]      {{{WONDERLAND}}} 69", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1532, 
+                    "b": 314, 
+                    "t": 218, 
+                    "page": 95, 
+                    "l": 602
+                }
+            ], 
+            "b": 314, 
+            "t": 218, 
+            "page_width": 2219, 
+            "r": 1932, 
+            "l": 152, 
+            "page_height": 3655, 
+            "page": 95
+        }
+    ]
+},
+{
+    "text": "Act VI]    {{{WONDERLAND}}} 71", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1527, 
+                    "b": 315, 
+                    "t": 219, 
+                    "page": 97, 
+                    "l": 592
+                }
+            ], 
+            "b": 315, 
+            "t": 219, 
+            "page_width": 2219, 
+            "r": 1944, 
+            "l": 172, 
+            "page_height": 3655, 
+            "page": 97
+        }
+    ]
+},
+{
+    "text": "Act VI]     {{{WONDERLAND}}} 73", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1522, 
+                    "b": 311, 
+                    "t": 226, 
+                    "page": 99, 
+                    "l": 589
+                }
+            ], 
+            "b": 311, 
+            "t": 226, 
+            "page_width": 2219, 
+            "r": 1936, 
+            "l": 156, 
+            "page_height": 3655, 
+            "page": 99
+        }
+    ]
+},
+{
+    "text": "Act VI]     {{{WONDERLAND}}} 75", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1519, 
+                    "b": 323, 
+                    "t": 227, 
+                    "page": 101, 
+                    "l": 583
+                }
+            ], 
+            "b": 323, 
+            "t": 227, 
+            "page_width": 2219, 
+            "r": 1936, 
+            "l": 148, 
+            "page_height": 3655, 
+            "page": 101
+        }
+    ]
+},
+{
+    "text": "Act VI]     {{{WONDERLAND}}} 77", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1510, 
+                    "b": 322, 
+                    "t": 237, 
+                    "page": 103, 
+                    "l": 579
+                }
+            ], 
+            "b": 322, 
+            "t": 237, 
+            "page_width": 2219, 
+            "r": 1920, 
+            "l": 160, 
+            "page_height": 3655, 
+            "page": 103
+        }
+    ]
+},
+{
+    "text": "Act VII]   {{{WONDERLAND}}} 79", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1529, 
+                    "b": 360, 
+                    "t": 270, 
+                    "page": 105, 
+                    "l": 599
+                }
+            ], 
+            "b": 360, 
+            "t": 270, 
+            "page_width": 2219, 
+            "r": 1964, 
+            "l": 184, 
+            "page_height": 3655, 
+            "page": 105
+        }
+    ]
+},
+{
+    "text": "Act VII]   {{{WONDERLAND}}} 8i", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1502, 
+                    "b": 297, 
+                    "t": 215, 
+                    "page": 107, 
+                    "l": 573
+                }
+            ], 
+            "b": 297, 
+            "t": 215, 
+            "page_width": 2219, 
+            "r": 1936, 
+            "l": 160, 
+            "page_height": 3655, 
+            "page": 107
+        }
+    ]
+},
+{
+    "text": "Act VII]   {{{WONDERLAND}}} 83", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1549, 
+                    "b": 312, 
+                    "t": 221, 
+                    "page": 109, 
+                    "l": 613
+                }
+            ], 
+            "b": 312, 
+            "t": 221, 
+            "page_width": 2219, 
+            "r": 1968, 
+            "l": 188, 
+            "page_height": 3655, 
+            "page": 109
+        }
+    ]
+},
+{
+    "text": "Act VII]   {{{WONDERLAND}}} 85", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1478, 
+                    "b": 329, 
+                    "t": 242, 
+                    "page": 111, 
+                    "l": 544
+                }
+            ], 
+            "b": 329, 
+            "t": 242, 
+            "page_width": 2219, 
+            "r": 1892, 
+            "l": 112, 
+            "page_height": 3655, 
+            "page": 111
+        }
+    ]
+},
+{
+    "text": "Act VII]    {{{WONDERLAND}}} 87", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1566, 
+                    "b": 341, 
+                    "t": 249, 
+                    "page": 113, 
+                    "l": 635
+                }
+            ], 
+            "b": 341, 
+            "t": 249, 
+            "page_width": 2219, 
+            "r": 1980, 
+            "l": 204, 
+            "page_height": 3655, 
+            "page": 113
+        }
+    ]
+},
+{
+    "text": "Act VII]    {{{WONDERLAND}}} 89", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1568, 
+                    "b": 293, 
+                    "t": 209, 
+                    "page": 115, 
+                    "l": 638
+                }
+            ], 
+            "b": 293, 
+            "t": 209, 
+            "page_width": 2219, 
+            "r": 1984, 
+            "l": 220, 
+            "page_height": 3655, 
+            "page": 115
+        }
+    ]
+} ] 
+})
+

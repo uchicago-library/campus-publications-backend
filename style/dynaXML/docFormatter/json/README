@@ -1,0 +1,12 @@
+Matches is always an array- each of the elements in matches have just two
+properties: text, par.
+
+In matches, each entry is one line. A line can have more than one
+match. I don't know why boxes is an array yet. 
+
+Closer. When it's on the beginning of a line it's perfect. When it's not the
+first thing in the line it's one word to the left. (It might be that it's twice
+as many words away as it should be- in some quick testing I couldn't get it to
+display any of the words on the right side of the sentences at all.)
+
+
